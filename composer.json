@@ -1,0 +1,12 @@
+{
+    "name": "hyx/hicom",
+    "description": "test composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hyx",
+            "email": "phphero@163.com"
+        }
+    ],
+    "require": {}
+}
